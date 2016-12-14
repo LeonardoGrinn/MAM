@@ -1,0 +1,16 @@
+{
+  "name": "MAM",
+  "description": "Sitio web para Mueble Atemporal Mexicano, el estudio de diseño y manufactura mueblera más sofisticado",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+      heroku/nodejs
+  ]
+}
